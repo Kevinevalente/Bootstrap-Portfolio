@@ -1,0 +1,48 @@
+
+header {
+	font-size: 40px;
+	bottom:41px;
+	display: inline-block;
+	text-align: center; 
+	width: 275px;
+	padding-bottom: 20px;
+	color: white;
+	height:60px;
+	background-color: #4aaaa5;  
+	margin-left: 80px;
+		}
+
+body	{
+	font-family: Georgia, Times, Times, serif;
+	font-size: 16px;
+	margin: none;
+	background-image: url("C:\\git\\Basic-Portfolio\\Assets\\Images\\cloth.png");
+		}
+
+footer {
+	border-top: solid;
+	border-top-width: 10px;
+	border-color: #4aaaa5;
+	padding-top: 20px;
+	background-color: #666;
+	color: white;
+	text-align: center;
+	height: 60px;
+	}
+
+@media screen and (max-width: 980px) {
+	body {
+		background-color: #333;
+		}
+
+	
+@media screen and (max-width: 768px) {
+	body {
+		background-color: #333;
+		}
+
+	
+@media screen and (max-width: 640px) {
+	body {
+		background-color: #333;
+		}
